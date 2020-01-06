@@ -1,0 +1,30 @@
+(
+raj@DESKTOP-HJ652MS MINGW64 /d/dac/testjava (master)
+$ git config --global user.email "prakashraj@gmail.com"
+
+raj@DESKTOP-HJ652MS MINGW64 /d/dac/testjava (master)
+$ git config --global user.name "prakashraj@gmail.com"
+)
+(
+
+raj@DESKTOP-HJ652MS MINGW64 /d/dac/AWP_Sunbeam
+$ git init
+Initialized empty Git repository in D:/dac/AWP_Sunbeam/.git/
+
+raj@DESKTOP-HJ652MS MINGW64 /d/dac/AWP_Sunbeam (master)
+$ git branch
+
+)
+
+1>
+raj@DESKTOP-HJ652MS MINGW64 /d/dac/AWP_Sunbeam (master)
+$ git clone https://github.com/cdacpune1/AWP.git
+2>
+raj@DESKTOP-HJ652MS MINGW64 /d/dac/AWP (master)
+$ git add .
+3>
+raj@DESKTOP-HJ652MS MINGW64 /d/dac/AWP (master)
+$ git commit -m "update awp"
+4>
+raj@DESKTOP-HJ652MS MINGW64 /d/dac/AWP (master)
+$ git push
